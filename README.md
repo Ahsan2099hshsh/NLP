@@ -1,14 +1,10 @@
-Awesome idea 👍
-Here’s a **detailed professional GitHub README (~2000+ words)** explaining your full NLP project:
 
 * Task 1: Text Preprocessing
 * Task 2: Bag of Words + TF + IDF
 * Task 3: Word Embedding
 * Task 4: Web-Based Text Pre-Processing App
 
-You can directly paste this into your `README.md`.
-
----
+Y
 
 # 🧠 Natural Language Processing Project
 
